@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Emad</h1>
-<h3 align="center">Passionate embedded systems from Egypt</h3>
+<h3 align="center">Mechatronics Engineer from Egypt</h3>
 
 - 📫 How to reach me **abdalrahmanemad3@gmail.com**
 
